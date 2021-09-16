@@ -1,0 +1,62 @@
+*::selection{
+    background-color: rgb(5, 180, 136);
+    color: white;
+}
+
+#copyFilter{
+    font-family: Arial;
+}
+
+#searchInput {
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid rgb(29, 29, 29);
+    width: 20rem;
+    height: 2rem;
+    padding: 5px 10px;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
+#searchInput:hover{
+    outline: none;
+    border: 2px solid rgb(8, 97, 240);
+    box-shadow: 0 0 5px blue;
+}
+
+table{
+    height: 300px;
+    border: none;
+    outline: none;
+}
+
+table td{
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 5px black;
+}
+
+#red {
+    color: red;
+    background-color: red;
+}
+#purple {
+    color: purple;
+    background-color: purple;
+}
+#green {
+    color: green;
+    background-color: green;
+}
+#blue {
+    color: blue;
+    background-color: blue;
+}
+#yellow {
+    color: yellow;
+    background-color: yellow;
+}
+#brown {
+    color: brown;
+    background-color: brown;
+}
